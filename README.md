@@ -80,7 +80,7 @@ The frontend was developed using HTML5, CSS, and forms.
 
 |      Platform                                                                                                      |                        User                                    |
 | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-|    <img src="https://github.com/user-attachments/assets/89f181e4-1ecc-4d4e-a4a4-d5fe6fac670b" width="48">          |     `www.linkedin.com/in/robenson-louissaint-wed-developer`    |
+|    <img src="https://github.com/user-attachments/assets/89f181e4-1ecc-4d4e-a4a4-d5fe6fac670b" width="48">          |     `https://www.linkedin.com/in/robenson-louissaint/`    |
 |    <img src="https://github.com/user-attachments/assets/d1f11fe5-f662-44d6-b50f-6387ab429aee" width="48">          |     `https://github.com/Robensonl`                                                |
 |    <img src="https://github.com/user-attachments/assets/c4d00daa-92ba-4558-bd0c-3675576a19d8" width="48">          |     `robenson.louissaint.dev@gmail.com`                                         |
                                                                                                                                            
