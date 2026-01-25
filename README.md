@@ -59,7 +59,7 @@ I enjoy learning fast, working on real-world projects, and continuously improvin
 
 - Features:
 The frontend and backend was fully developed and deployed. The API to register and authorize the users was done with Node/express. MondgoDB was used to create and manage the NoSQL data base. The frontend was developed with React+Webpack. 
-- Link to site: https://robensonl.github.io/web_project_around_auth/
+- Link to site: https://www.educben.mooo.com/
 - Link to Repository: https://github.com/Robensonl/web_project_around_auth.git
 - Technologies used:
 
