@@ -1,109 +1,156 @@
-# Welcome to my GitHub :space_invader::alien:
-<br>
-<h4 align="center">-“Everything yields to diligence”</h4>
-<br>
+<h1 align="center">Hi there, I'm Robenson Louissaint 👋</h1>
 
-## About me
+<p align="center">
+  <strong>Full-Stack Web Developer</strong> · <strong>Cybersecurity Student</strong> ·
+</p>
 
-Hi! I'm **Robenson Louissaint**, a **Junior Web Developer** and **Junior Computer Engineering student specialized in Cybersecurity**, based in **Québec, Canada** 🇨🇦.
+<p align="center">
+  <em>"Everything yields to diligence"</em>
+</p>
 
-I’m passionate about building modern and secure web applications using **HTML, CSS, JavaScript, React, Vite, Node.js, Express, MongoDB**, and UI/UX tools like **Figma**. I work on full-stack projects with a focus on clean code, performance, and scalability.
+<p align="center">
+  <a href="https://www.linkedin.com/in/robenson-louissaint/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:robenson.louissaint.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Robensonl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-I also have a strong interest in **cybersecurity**, especially vulnerability analysis, network scanning, and ethical hacking fundamentals, using tools such as **Nmap, Metasploit, and Nessus**.
+---
 
-I enjoy learning fast, working on real-world projects, and continuously improving my technical and problem-solving skills. My goal is to grow as a professional developer while contributing to secure and meaningful digital solutions.
+## 🧑‍💻 About Me
 
-🔹 Open to **internships**, **junior roles**, and **freelance projects**  
-🔹 Fast learner & self-motivated  
-🔹 Focused on clean, secure, and scalable code 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+I'm a **Full-Stack Web Developer** and **Computer Engineering student specialized in Cybersecurity**, passionate about building modern, secure, and scalable web applications.
 
-## Skills, languages and frameworks
-<!--
-|      Item          |                         Icon                                                                                 |
-| :----------------: | :----------------------------------------------------------------------------------------------------------: |
-|    `HTML`          |  <img src="https://github.com/user-attachments/assets/3afe139d-12b4-45d7-af43-c170461563eb" width="48">      |
-|    `CSS`           |  <img src="https://github.com/user-attachments/assets/823f35f6-0cd9-44a4-acfa-8f3e687c1b9d" width="48">      |
-|    `Figma`         |  <img src="https://github.com/user-attachments/assets/5b2a6798-48a4-4e93-a1a7-c077f84219c1" width="48">      |
-|    `Javascript`    |  <img src="https://github.com/user-attachments/assets/a86e44d1-c4a6-4297-b487-65e9594fbbb3" width="48">      |
-|    `React`         |  <img src="https://github.com/user-attachments/assets/5e0ea6e3-1fb0-40a7-b0f3-e03cbd9c0471" width="48">      |
-|    `Vite`          |  <img src="https://github.com/user-attachments/assets/ba6e40f7-f0a4-4952-93e0-b11ce109c93b" width="48">      |
-|    `Node js`       |  <img src="https://github.com/user-attachments/assets/bcd4bf21-52f1-498b-8363-ebde88e88f4c" width="48">      |
-|    `Express`       |  <img src="https://github.com/user-attachments/assets/f9bbe27e-bc3a-4714-8b18-a9422dfde6d7" width="48">      |
-|    `MongoDB`       |  <img src="https://github.com/user-attachments/assets/94871ae8-7c1f-4cff-9168-0b4f2b2d405b" width="48">      |
-|    `Firebase`      |  <img src="https://github.com/user-attachments/assets/f778ce5f-f3ef-4ff2-bd7d-e9edf7977539" width="48">      | -->
- 
-|      Icon          |<img src="https://github.com/user-attachments/assets/3afe139d-12b4-45d7-af43-c170461563eb" width="48">      | <img src="https://github.com/user-attachments/assets/823f35f6-0cd9-44a4-acfa-8f3e687c1b9d" width="48">      | <img src="https://github.com/user-attachments/assets/5b2a6798-48a4-4e93-a1a7-c077f84219c1" width="48">      | <img src="https://github.com/user-attachments/assets/a86e44d1-c4a6-4297-b487-65e9594fbbb3" width="48">      | <img src="https://github.com/user-attachments/assets/5e0ea6e3-1fb0-40a7-b0f3-e03cbd9c0471" width="48">      |  <img src="https://github.com/user-attachments/assets/ba6e40f7-f0a4-4952-93e0-b11ce109c93b" width="48">      | <img src="https://github.com/user-attachments/assets/bcd4bf21-52f1-498b-8363-ebde88e88f4c" width="48">      | <img src="https://github.com/user-attachments/assets/f9bbe27e-bc3a-4714-8b18-a9422dfde6d7" width="48">      | <img src="https://github.com/user-attachments/assets/94871ae8-7c1f-4cff-9168-0b4f2b2d405b" width="48">      | <img src="https://github.com/user-attachments/assets/f778ce5f-f3ef-4ff2-bd7d-e9edf7977539" width="48">      |
-| :----------------: |:----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      |  :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      | :----------------------------------------------------------------------------------------------------------:      |
-|      Item          | `HTML`          |`CSS`           | `Figma`         | `Javascript`    |  `React`         | `Vite`          |  `Node js`       | `Express`       | `MongoDB`       | `Firebase`      |
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- 🎓 **TripleTen** — Web Developer Program (March 2025 – February 2026) — **Completed** ✅
+- 🎓 **IPP** — Ingeniería en Informática, Mención Ciberseguridad (4-year program) — **In Progress**
+- 🔐 Strong interest in **vulnerability analysis**, **network scanning**, and **ethical hacking**
+- 🌱 Currently deepening my skills in **React**, **Node.js**, and **cybersecurity tools**
+- 💼 Open to **internships**, **junior roles**, and **freelance projects**
 
-## Projects 
+---
 
+## 🛠️ Tech Stack
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Project 2: Site to hare your favorite bands with other users
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-![image](https://raw.githubusercontent.com/Robensonl/web_project_around_auth/main/src/assets/Home_page.jpg
-)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-- Features:
-The frontend and backend was fully developed and deployed. The API to register and authorize the users was done with Node/express. MondgoDB was used to create and manage the NoSQL data base. The frontend was developed with React+Webpack. 
-- Link to site: https://www.educben.mooo.com/
-- Link to Repository: https://github.com/Robensonl/web_project_around_auth.git
-- Technologies used:
+### Tools & Testing
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
+### Cybersecurity
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=security&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
 
-### Project 3: Site with a template for a coffee shop business
+---
+
+## 🎓 Education
+
+### 🟧 TripleTen — Web Developer Program
+**March 2025 – February 2026** · **800+ hours** · ✅ Completed
+
+Full-stack web development bootcamp covering:
+
+| Module | Duration |
+|--------|----------|
+| HTML & CSS (Intro + Advanced + Responsive) | 6 weeks |
+| Page Design & Semantics | 2 weeks |
+| Development Workflow | 2 weeks |
+| Working with Designs (Figma) | 2 weeks |
+| JavaScript & DOM Manipulation | 4 weeks |
+| JS Logic, Methods & Programming | 2 weeks |
+| JS Objects & Event Handling | 3 weeks |
+| Object-Oriented Programming & Webpack | 2 weeks |
+| Async JavaScript & APIs | 2 weeks |
+| React.js (Intro + Routing + State) | 4 weeks |
+| Backend: Node.js & Express.js | 2 weeks |
+| Database Connection with REST API | 2 weeks |
+| Frontend & Backend Authentication | 4 weeks |
+| Final Project | 4 weeks |
+
+### 🔵 IPP — Computer Engineering, Cybersecurity Specialization
+**4-year program** · 🔄 In Progress
+
+Key subjects include:
+- Programming (Basic, OOP, Web, Mobile, Interfaces)
+- Database & Operating Systems Administration
+- Networks & Communications
+- Quality Assurance & Software Design Methodologies
+- IoT (Internet of Things)
+- **Cybersecurity Focus:** Network Security, Preventive Security, Data Security, Ethical Hacking Workshop, Computational Auditing, Business Continuity
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Around The U.S. — Social Media for Music Lovers
+> A full-stack web app where users share their favorite bands and places.
+
+![image](https://raw.githubusercontent.com/Robensonl/web_project_around_auth/main/src/assets/Home_page.jpg)
+
+- **Frontend:** React + Webpack
+- **Backend:** Node.js + Express.js (RESTful API)
+- **Database:** MongoDB
+- **Auth:** User registration & login with JWT
+- 🔗 **Live Site:** [educben.mooo.com](https://www.educben.mooo.com/)
+- 📂 **Repository:** [web_project_around_auth](https://github.com/Robensonl/web_project_around_auth)
+
+---
+
+### ☕ Coffee Shop — Business Landing Page
+> A responsive landing page template for a coffee shop business.
 
 ![image](https://github.com/user-attachments/assets/ac9c95ae-c1cd-49e9-9634-dc90c0678857)
 
-- Features:
-The frontend was developed using HTML5, CSS, and forms.
- 
-- Link to site:	https://robensonl.github.io/web_project_coffeeshop/
-- Link to Repository: https://github.com/Robensonl/web_project_coffeeshop.git
-- Technologies used:
+- **Tech:** HTML5, CSS3, Responsive Design, Forms
+- 🔗 **Live Site:** [robensonl.github.io/web_project_coffeeshop](https://robensonl.github.io/web_project_coffeeshop/)
+- 📂 **Repository:** [web_project_coffeeshop](https://github.com/Robensonl/web_project_coffeeshop)
 
+---
 
-## Contact data
+## 📊 GitHub Stats
 
-|      Platform                                                                                                      |                        User                                    |
-| :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-|    <img src="https://github.com/user-attachments/assets/89f181e4-1ecc-4d4e-a4a4-d5fe6fac670b" width="48">          |     `https://www.linkedin.com/in/robenson-louissaint/`    |
-|    <img src="https://github.com/user-attachments/assets/d1f11fe5-f662-44d6-b50f-6387ab429aee" width="48">          |     `https://github.com/Robensonl`                                                |
-|    <img src="https://github.com/user-attachments/assets/c4d00daa-92ba-4558-bd0c-3675576a19d8" width="48">          |     `robenson.louissaint.dev@gmail.com`                                         |
-                                                                                                                                           
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Robensonl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robensonl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
+## 📬 Let's Connect!
 
-<!--
-**eBraulio/eBraulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always open to learning opportunities, collaborations, and conversations about web development and cybersecurity.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/robenson-louissaint/">💼 LinkedIn</a> ·
+  <a href="mailto:robenson.louissaint.dev@gmail.com">📧 Email</a> ·
+  <a href="https://github.com/Robensonl">🐙 GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Robensonl&style=flat-square&color=blue" alt="Profile Views">
+</p>
