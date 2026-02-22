@@ -22,7 +22,7 @@ I'm a certified **Full-Stack Web Developer** and **Computer Engineering student 
 I build modern, secure, and scalable web applications — from pixel-perfect UIs to production-ready APIs with authentication, testing, and deployment.
 
 ```
-🎓  TripleTen — Web Developer Program (800+ hrs) ··············· Completed ✅
+����  TripleTen — Web Developer Program (800+ hrs) ··············· Completed ✅
 🎓  IPP — Computer Engineering, Cybersecurity (4-year) ········· In Progress 🔄
 💼  Open to internships, junior roles & freelance projects
 ```
@@ -218,12 +218,7 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robensonl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robensonl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170">
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robensonl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170">
