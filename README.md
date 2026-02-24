@@ -22,7 +22,7 @@ I'm a certified **Full-Stack Web Developer** and **Computer Engineering student 
 I build modern, secure, and scalable web applications — from pixel-perfect UIs to production-ready APIs with authentication, testing, and deployment.
 
 ```
-����  TripleTen — Web Developer Program (800+ hrs) ··············· Completed ✅
+📜  TripleTen — Web Developer Program (800+ hrs) ··············· Completed ✅
 🎓  IPP — Computer Engineering, Cybersecurity (4-year) ········· In Progress 🔄
 💼  Open to internships, junior roles & freelance projects
 ```
@@ -52,6 +52,8 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
