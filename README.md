@@ -264,15 +264,20 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Robensonl&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" alt="GitHub Trophies Row 1"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Robensonl&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=A,AA,AAA,S,SS,SSS,SECRET" width="100%" alt="GitHub Trophies Row 2"/>
+| 🎯 Achievement | 📋 Details | ✅ Status |
+|---|---|---|
+| 🎓 TripleTen Certified | Full-Stack Web Developer — 800+ hrs | Completed |
+| 🔐 Cybersecurity Student | Computer Engineering @ IPP — 4-year program | In Progress |
+| 🚀 Production Deployment | Around The U.S. — Live app with SSL, PM2, Nginx | Deployed |
+| 🧪 65 Automated Tests | News Explorer — Jest + Supertest test suite | Shipped |
+| 🌐 Full-Stack Project | React 19 + Node.js + MongoDB + JWT Auth | Built |
+| 📱 Responsive Design | Multiple pixel-perfect responsive apps | Delivered |
+| 🔒 Security Implementation | Bcrypt, Helmet, Rate Limiting, CORS | Applied |
+| 💼 Portfolio Live | Next.js portfolio with TypeScript & Tailwind | Online |
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -302,4 +307,4 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 </div>
 
 <!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:58a6ff,70:0a2a4a,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:58a6ff,70:0a2a4a,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
