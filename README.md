@@ -113,7 +113,7 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 |---|---|---|
 | **📰 News Explorer** — Full-Stack News App | React 19, Node.js, MongoDB, JWT, Jest | [Frontend](https://github.com/Robensonl/news-explorer-frontend) · [Backend](https://github.com/Robensonl/news-explorer-backend) |
 | **🌎 Around The U.S.** — Social Platform | React 19, Express 5, MongoDB, PM2, Nginx | [Live Site](https://www.educben.mooo.com/) · [Repo](https://github.com/Robensonl/web_project_api_full) |
-| **💼 Portfolio** — Next.js App | Next.js, TypeScript, Tailwind CSS, MDX | [Repo](https://github.com/Robensonl/Spotlight) |
+| **💼 Portfolio** — Next.js App | Next.js, JavaScript, Tailwind CSS, MDX | [Repo](https://github.com/Robensonl/Spotlight) |
 | **☕ Coffee Shop** — Landing Page | HTML5, CSS3, Responsive Design | [Live](https://robensonl.github.io/web_project_coffeeshop/) · [Repo](https://github.com/Robensonl/web_project_coffeeshop) |
 | **🎨 Homeland** — Art Gallery | HTML5, CSS3, Responsive Design | [Live](https://robensonl.github.io/web_project_homeland/) · [Repo](https://github.com/Robensonl/web_project_homeland) |
 
@@ -277,7 +277,7 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 | 🌐 Full-Stack Project | React 19 + Node.js + MongoDB + JWT Auth | Built |
 | 📱 Responsive Design | Multiple pixel-perfect responsive apps | Delivered |
 | 🔒 Security Implementation | Bcrypt, Helmet, Rate Limiting, CORS | Applied |
-| 💼 Portfolio Live | Next.js portfolio with TypeScript & Tailwind | Online |
+| 💼 Portfolio Live | Next.js portfolio with JavaScript & Tailwind | Online |
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
