@@ -16,9 +16,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00d4ff?style=flat-square&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Available-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Based%20In-Québec%2C%20Canada-red?style=flat-square&logo=google-maps&logoColor=white"/>
+<a href="https://github.com/Robensonl?tab=repositories&q=&type=&language=&sort=" title="🔐 View my Cybersecurity & Security-focused repositories"><img src="https://img.shields.io/badge/Focus-Cybersecurity-00d4ff?style=flat-square&logo=hackthebox&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/robenson-louissaint/" title="💼 Open to internships, junior roles & freelance projects — Let's connect!"><img src="https://img.shields.io/badge/Available-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+<a href="https://github.com/Robensonl" title="🇨🇦 Based in Québec, Canada — Visit my GitHub profile"><img src="https://img.shields.io/badge/Based%20In-Québec%2C%20Canada-red?style=flat-square&logo=google-maps&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -260,7 +260,6 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robensonl&bg_color=0d1117&color=58a6ff&line=58a6ff&point=00d4ff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="95%" alt="Contribution Graph"/>
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -272,7 +271,6 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 <img src="https://github-profile-trophy.vercel.app/?username=Robensonl&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -300,4 +298,4 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 </div>
 
 <!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:58a6ff,70:0a2a4a,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:58a6ff,70:0a2a4a,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
