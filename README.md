@@ -152,11 +152,11 @@ I build modern, secure, and scalable web applications — from pixel-perfect UIs
 ---
 
 ### 💼 Personal Portfolio — Next.js
-> 🎯 Professional portfolio built with Next.js, TypeScript, and Tailwind CSS.
+> 🎯 Professional portfolio built with Next.js, JavaScript, and Tailwind CSS.
 
 | | |
 |---|---|
-| **Tech** | Next.js, TypeScript, Tailwind CSS, MDX |
+| **Tech** | Next.js, JavaScript, Tailwind CSS, MDX |
 
 🔗 [Repository](https://github.com/Robensonl/Spotlight)
 
